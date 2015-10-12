@@ -1,0 +1,5 @@
+C:\Users\whit0717\Desktop\ATaleOfTwoHorns\ATaleOfTwoHorns\ATaleOfTwoHornsContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\holl0161\Desktop\ATaleOfTwoHorns\ATaleOfTwoHorns\ATaleOfTwoHornsContent\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\ATaleOfTwoHorns\ATaleOfTwoHorns\ATaleOfTwoHornsContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Zach\Desktop\ATaleOfTwoHorns\ATaleOfTwoHorns\ATaleOfTwoHornsContent\obj\x86\Debug\ATaleOfTwoHornsContent.contentprojResolveAssemblyReference.cache
+C:\Users\dubu0017\Desktop\ATaleOfTwoHorns\ATaleOfTwoHorns\ATaleOfTwoHornsContent\obj\x86\Debug\ResolveAssemblyReference.cache
